@@ -1,0 +1,6 @@
+Usage: CScript [options] file
+Options:
+  --help		Display this information.
+  --version		Display script version information.
+  --time		Display execution time
+  --function	Display predefined function

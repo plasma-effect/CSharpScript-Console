@@ -1,0 +1,4 @@
+CScript version 1.0.0
+Copyright (c) 2019 plasma_effect
+This program is under MIT License
+For details, see https://github.com/plasma-effect/CSharpScript-Console/blob/master/LICENSE
